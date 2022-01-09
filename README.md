@@ -11,4 +11,6 @@ Clone repo using https://github.com/calinpopa1/Unity-Tetris.git and run the proj
 
 Here is what the game looks like.
 
+https://user-images.githubusercontent.com/66457665/148666514-ca1564d4-3989-4568-a513-78bb525d9dcb.mp4
+
 
